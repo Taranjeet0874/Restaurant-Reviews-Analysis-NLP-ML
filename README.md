@@ -1,0 +1,2 @@
+# Restaurant-Reviews-Analysis-NLP-ML
+In this project sentiment Analysis of Restaurant reviews has been done. Firstly proper sentiment and tokenization of reviews has been done. all stopwords are removed then Naive Bayes Model has been trained with training data ( some reviews ) then we make predictions for the test data whether the reviews are negative or positive so it is a classification problem which is done using gaussian naive bayes.
